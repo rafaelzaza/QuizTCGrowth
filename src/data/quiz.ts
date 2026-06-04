@@ -271,7 +271,7 @@ export const quizResult: QuizResult = {
   type: 'result',
   headline: 'Seu conteúdo tem potencial — o que falta é execução.',
   body: 'Com base nas suas respostas, você já sabe o que quer mas ainda não tem os vídeos que merecem. A TCG Growth existe exatamente pra isso: vídeos dinâmicos, com retenção real, entregues no prazo — pra você focar no que importa.',
-  cta_label: 'Quero ver como funciona →',
-  cta_action: 'redirect_vsl',
-  cta_url: '/vsl'
+  cta_label: 'Falar no WhatsApp →',
+  cta_action: 'redirect_whatsapp',
+  cta_url: 'https://wa.me/5548996065524'
 }

@@ -89,6 +89,8 @@ export default function QuizResult({ result }: QuizResultProps) {
 
       <motion.a
         href={result.cta_url}
+        target="_blank"
+        rel="noopener noreferrer"
         whileTap={{ scale: 0.97 }}
         style={{
           display: 'block',

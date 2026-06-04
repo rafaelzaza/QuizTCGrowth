@@ -49,7 +49,7 @@ export interface QuizResult {
   headline: string
   body: string
   cta_label: string
-  cta_action: 'redirect_vsl'
+  cta_action: 'redirect_whatsapp'
   cta_url: string
 }
 
